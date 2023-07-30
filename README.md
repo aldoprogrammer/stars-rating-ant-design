@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ANT-Design can provide what bootsrap can not provide, like giving stars rate.Believe ir or not, you will need this later on. Like what i just experiebced, i need ro make a rating section of r a viseo lesson. I could not find it using Bootsrap 5
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ANT-Design can provide what bootsrap can not provide, like giving stars rate.Believe ir or not, you will need this later on. Like what i just experiebced, i need ro make a rating section of r a viseo lesson. I could not find it using Bootsrap 5, but hen i remmeber tjis.
 
 ## Available Scripts
 
